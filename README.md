@@ -1,34 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![WhatsApp Image 2023-07-04 at 19 50 00](https://github.com/andhikark/car-showcase-react/assets/75937835/22842255-fe2f-41cf-ac94-3b7551c81102)
 
-First, run the development server:
+
+# 
+
+A brief description of what this project does and who it's for
+
+<br> </br> 
+## Features
+
+- Responsive layout
+- Car catalogue
+- Advanced search bar by manufacturers and car type
+- Filter option by fuel and year
+- Car details
+
+
+<br> </br>
+## Installation
+
+Install my-project with npm
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+  npm install my-project
+  cd my-project
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br> </br>
+## Lessons Learned
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Use Next.js 13 App Router and Client Side Rendering
+- Implement Advanced Search Functionality
+- Create Filtering Capabilities
+- Optimize Metadata and SEO
+- Create custom filter, combobox, and modal elements
+- Maintain a well-organized file and folder structure.
+- Embrace the principles of writing clean code.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br> </br>
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Client:** Next.js 13, TypeScript, TailwindCSS
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br> </br>
+## Run Locally
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+<br> </br>
+
+## Screenshots
+
+![andhikaRIde](https://github.com/andhikark/car-showcase-react/assets/75937835/3cd9ef73-a5be-454a-8714-a326e5cfc641)
+
+![Screenshot 2023-07-08 171932](https://github.com/andhikark/car-showcase-react/assets/75937835/c5089112-80d6-4912-ac71-24334f624e5d)
+
+![Screenshot 2023-07-08 172014](https://github.com/andhikark/car-showcase-react/assets/75937835/f8d45c10-1068-4e86-bb2d-8cbe4460370a)
