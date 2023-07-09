@@ -15,18 +15,7 @@ The project's main goal is creating an online platform where users can view and 
 - Advanced search bar by manufacturers and car type
 - Filter option by fuel and year
 - Car details
-
-
-<br> </br>
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-
+  
 
 <br> </br>
 ## Lessons Learned
@@ -40,26 +29,25 @@ Install my-project with npm
 - Embrace the principles of writing clean code.
 
 
-
 <br> </br>
 ## Tech Stack
 
-**Client:** Next.js 13, TypeScript, TailwindCSS
+**Client:** Next.js 13, TypeScript, TailwindCSS, Headless UI
 
 
 <br> </br>
-## Run Locally
+## How To Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/andhikark/car-showcase-react.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd car-showcase-react
 ```
 
 Install dependencies
