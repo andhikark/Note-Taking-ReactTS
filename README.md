@@ -4,7 +4,9 @@
 
 # 
 
-A brief description of what this project does and who it's for
+"AndhikaRide" is a web application that allows users to showcase and explore various cars. It is built using Next.js 13 , which provides a fast and efficient way to develop interactive user interfaces. 
+
+The project's main goal is creating an online platform where users can view and learn about different car models. It include features such as displaying car images, specifications and short description. The use of Next.js suggests that the application is designed to deliver a seamless and intuitive user interface, enabling users to navigate through the car showcase easily.
 
 <br> </br> 
 ## Features
