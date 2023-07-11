@@ -5,7 +5,7 @@
 # 
 "AndhikaRide" is a web application that allows users to showcase and explore various cars. It is built using Next.js 13 , which provides a fast and efficient way to develop interactive user interfaces. Using API from [IMAGIN STUDIO](https://www.imagin.studio/car-image-api) to render the car image and also [Headless UI](https://headlessui.com/) to style the component
 
-The project's main goal is creating an online platform where users can view and learn about different car models. It include features such as displaying car images, specifications and short description. The use of Next.js suggests that the application is designed to deliver a seamless and intuitive user interface, enabling users to navigate through the car showcase easily.
+The main goal of this web is creating an online platform where users can view and learn about different car models. It include features such as displaying car images and specifications. The use of Next.js suggests that the application is designed to deliver a seamless and intuitive user interface, enabling users to navigate through the car showcase easily.
 
 <br> </br> 
 ## Features
